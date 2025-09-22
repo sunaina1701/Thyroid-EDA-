@@ -1,6 +1,6 @@
-# Thyroid Data EDA using BioPython
+# Thyroid cancer risk data EDA using BioPython
 
-This project is an exploratory data analysis (EDA) on thyroid dataset using BioPython. The main goal is to understand patterns, trends, and relationships in the data which can help in better understanding thyroid-related conditions.
+This project is an exploratory data analysis (EDA) on thyroid dataset using BioPython. The main goal is to understand patterns, trends, and relationships in the data which can help in better understanding thyroid cancer risk related conditions.
 
 The analysis was carried out in Google Colab (Jupyter Notebook) for easy execution and visualization.
 
@@ -44,4 +44,4 @@ Run the cells step by step to reproduce the analysis
 
 ## Results / Insights
 
-The notebook highlights important features in the thyroid dataset and shows how data visualization helps in understanding thyroid disorders.
+The notebook highlights important features in the thyroid dataset and shows how data visualization helps in understanding thyroid cancer risk.
